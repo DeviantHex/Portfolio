@@ -1,4 +1,4 @@
-# Portfollio
+# Portfolio
 Blackout All in One Phishing Engine
 
 <img width="1500" height="6303" alt="black-out (1)" src="https://github.com/user-attachments/assets/9f4fdee4-4872-4e82-8049-0a7fb1f5ae0c" />
