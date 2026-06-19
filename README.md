@@ -14,7 +14,6 @@ NetStalker - Vullnerability Scanninng & Exploit Engine
 <img width="1678" height="816" alt="Screenshot 2026-05-26 at 5 25 38 PM" src="https://github.com/user-attachments/assets/b6a7f3e8-416b-4564-bd00-a44a81ec897c" />
 <img width="1680" height="825" alt="Screenshot 2026-05-26 at 5 25 28 PM" src="https://github.com/user-attachments/assets/b29f18ba-1208-42f5-9195-04ded89a4e98" />
 <img width="1675" height="826" alt="Screenshot 2026-05-26 at 5 25 16 PM" src="https://github.com/user-attachments/assets/d5af12c4-b608-40c3-aa6a-38c7b064956b" />
-<img width="1623" height="807" alt="Screenshot 2026-05-11 at 3 32 49 AM" src="https://github.com/user-attachments/assets/19a9fbc2-398f-4d1b-aefe-1b1995c7cb7a" />
 <img width="1678" height="828" alt="Screenshot 2026-05-10 at 5 40 12 PM" src="https://github.com/user-attachments/assets/d4a4f5a9-bcd7-4542-bbaf-a404688a8f62" />
 <img width="1680" height="824" alt="Screenshot 2026-05-10 at 5 40 04 PM" src="https://github.com/user-attachments/assets/a386761c-a455-4c8a-b37e-cf5ba91d3d66" />
 
